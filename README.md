@@ -17,3 +17,7 @@ The current targeted sorting algorithms are listed below alongwith the most dire
 * [] [Flux Sort](https://github.com/scandum/fluxsort)
 * [] [Block Sort](https://en.wikipedia.org/wiki/Block_sort)
 * [] [Glide Sort](https://github.com/orlp/glidesort)
+
+## Important note
+
+The initial goal is to faithfully implement these algorithms as they are specified in their respective references in lean. Subsequent goals might include optimising them for the particular execution model and memory management style of lean (such as the functional-but-in-place feature).
