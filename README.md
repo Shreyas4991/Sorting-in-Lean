@@ -1,10 +1,10 @@
 # Sorting in Lean
 
-The goal is to have efficient implementations of sorting algorithms in lean with a non-exclusive focus on stable algorithms. In the short run, we hope to implement efficient versions of. Proving properties is not a priority.
+The goal is to have efficient implementations of sorting algorithms in lean with a non-exclusive focus on stable algorithms. In the short run, we hope to implement efficient algorithms. Proving properties is not a priority.
 
 ### Current Targets
 
-The current targeted sorting algorithms are listed below alongwith the most directly used reference for each.
+The current targeted sorting algorithms are listed below alongwith the most directly used reference for each. They may not necessarily be optimised for lean in their current form. 
 
 * [] [Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort) : To be used as a primitive in other sorting procedures.
 
